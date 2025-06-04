@@ -51,7 +51,7 @@
     "prettier": "1.17.1",
     "rimraf": "^5.0.10",
     "sass": "^1.58.3",
-    "shelljs": "^0.9.2"
+    "shelljs": "^0.10.0"
   },
   "browserslist": [
     "Safari >= 15",
